@@ -4,3 +4,9 @@ version = "0.1.0"
 authors = ["chris (daiyi) <daiyitastic@gmail.com>"]
 
 [dependencies]
+hyper = "0.9"
+iron = "*"
+mount = "*"
+router = "*"
+rustc-serialize = "*"
+staticfile = "*"
